@@ -25,7 +25,7 @@
     "lint": "node_modules/eslint/bin/eslint.js ."
   },
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 4.0.0"
   },
   "dependencies": {
     "cookie": "0.3.1",
